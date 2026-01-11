@@ -15,7 +15,7 @@ Data Science & Business Analytics student at UIC (Chicago) — focused on **Data
 **What I did:** cleaned and standardized multi-year records, built SQL transformations + Power BI measures, and delivered an interactive KPI dashboard with drill-through and time filters.  
 **Tools:** Python (Pandas), PostgreSQL, Power BI (DAX)  
 **Highlight:** identified segment-level performance differences in **302 title bouts** and documented a **data dictionary + refresh checklist** for reproducibility.  
-➡️ Repo: [[(https://github.com/Tanho2003/UFC-Efficiency-Analysis)]
+➡️ Repo: [[(https://github.com/Tanho2003/pricing-segment-performance-ufc)]
 
 ### 2) Customer Value Segmentation (RFM)
 **What I did:** built an RFM pipeline (CTEs + window functions), validated scoring in Python, and shipped a Power BI dashboard for segment monitoring.  
